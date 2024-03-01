@@ -1,0 +1,22 @@
+reference : https://www.youtube.com/watch?v=UWYOC8g5N_0
+
+React Router
+    - fully-featured client and server-side routing library for React
+    - create and navigate between different URLs that make up your web app
+    - provides unique URLs for different components in the app
+      and makes the UI easily shareable with other users
+
+Course Content
+    - Configuring routes
+    - Navigating on button click
+    - Navigating programmatically
+    - Dynamic routes
+    - Nested routes
+    - Route parameters
+    - Lazy loading
+    - Authentication
+    - And a lot more!
+
+Installation and Setup
+    open gitbash and navigate to project directory
+    then type npm install react-router-dom
